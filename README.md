@@ -31,7 +31,7 @@ pip install datetime
 After you have Python 3 and the datetime module installed, you can download the loan_calculator.py file from this repository and save it in your preferred location. You can also clone this repository by running the following command in your terminal:
 
 ```python
-git clone https://github.com/Israelshecktar/loan_calculator_app.git
+git clone https://github.com/Israelshecktar/Loan_app.git
 ```
 
 ## Usage 🚀
