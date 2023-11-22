@@ -31,15 +31,15 @@ pip install datetime
 After you have Python 3 and the datetime module installed, you can download the loan_calculator.py file from this repository and save it in your preferred location. You can also clone this repository by running the following command in your terminal:
 
 ```python
-git clone https://github.com/name/loan_calculator_app.git
+git clone https://github.com/Israelshecktar/loan_calculator_app.git
 ```
 
 ## Usage
 
 To use this app, you need to run the loan_calculator.py file in your terminal. You can do this by navigating to the directory where you saved the file and running the following command:
 
-```python
-python loan_calculator.py
+```python3
+python3 loan_calculator.py
 ```
 
 The app will greet you and ask for your name. Then, it will ask you a series of questions about your loan preferences. You need to enter your answers according to the instructions given by the app. For example, you need to enter 1 or 2 for some questions, and enter a valid number or date for other questions. The app will validate your input and handle any errors. After you enter all the required information, the app will calculate and display the results for you. It will also ask you if that would be all for now. You can enter 1 for yes or 2 for no. If you enter 1, the app will thank you and exit. If you enter 2, the app will ask you what else you would like to do or otherwise transfer you to a customer care representative.
@@ -67,7 +67,7 @@ Thank you for using my loan calculator app, John! Have a nice day!
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE] file for details.
+This project is licensed under the MIT License. See the [https://mit-license.org] file for details.
 
 ## Contributors
 
