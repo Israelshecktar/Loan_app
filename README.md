@@ -49,18 +49,25 @@ Here is an example of how the app works:
 ```
 Welcome to shecktar loan calculator app!
 What is your name? John
+
 Hello, John!
 Would you like to borrow in dollars or naira? (1 for dollars, 2 for naira) 1
+
 How much would you like to borrow in $? 10000
 Would you like to borrow the loan alone or split the loan with some friends? (1 for alone, 2 for friends) 2
+
 How many people to split the loan bill with? 3
 Would you like to pay monthly interest or yearly interest? (1 for monthly, 2 for yearly) 1
+
 How long would you like to borrow the loan for in months? 12
+
 The total payment for the loan is $10,700.00
 The monthly payment for the loan is $891.67
 The payment per person for the loan is $3,566.67
+
 What date would you like to borrow the loan? (1 for now, 2 for later) 1
 The payment due date is 22-11-2024
+
 Would that be all for now? (1 for yes, 2 for no) 1
 Thank you for using my loan calculator app, John! Have a nice day! 😊
 ```
