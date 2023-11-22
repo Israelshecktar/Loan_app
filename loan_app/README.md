@@ -66,12 +66,7 @@ Thank you for using my loan calculator app, John! Have a nice day! 😊
 ```
 
 ## License 📄
-
-<<<<<<< HEAD:loan_app/README.md1
 This project is licensed under the MIT License. See the [LICENSE](https://mit-license.org) file for details.
-=======
-This project is licensed under the MIT License. See the [https://mit-license.org] file for details.
->>>>>>> 4bdbacff2a5a0c5784515cb2bc5fcc36b29a1bd2:loan_app/README.md
 
 ## Contributors 👥
 
