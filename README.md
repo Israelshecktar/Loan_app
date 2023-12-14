@@ -1,4 +1,5 @@
 # Loan Calculator App 🧮
+<a href="https://github.com/Israelshecktar>"Israelshecktar</a>
 
 ## Description 📝
 
