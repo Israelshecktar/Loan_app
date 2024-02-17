@@ -1,8 +1,6 @@
 # Loan Calculator App 🧮
 <a href="https://github.com/Israelshecktar">Israelshecktar</a>
 
-[here](https://github.com/Israelshecktar)
-
 ## Description 📝
 
 Shecktar Loan Calculator App is a simple and user-friendly app that helps you estimate your monthly payments, interest rate, and loan term based on the loan amount and other factors. You can also choose to borrow the loan alone or split it with some friends. The app will calculate the payment per person and the payment due date for you. You can use this app to plan your budget and compare different loan options and trust me you'd love it. 💰
